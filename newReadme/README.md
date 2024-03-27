@@ -1,6 +1,6 @@
-# l
-  by l
-  ![Github license](https://img.shields.io/badge/license--yellowgreen.svg)
+# README.md
+  by Pema Sherpa
+  ![Github license](https://img.shields.io/badge/license-MIT License-yellowgreen.svg)
   ## Table of Contents
   * [Description](#description)
   * [Requirements](#requirements)
@@ -12,22 +12,22 @@
  [liense](#license)
 
   ## Description
-  l
+  It generates the professional Readme.
   ## Usage
-  l
+  It is very useful to create profssional readme.
   ## Installation
-  l
+  NA
   ## Requirements
-  l
+  inquirer npm product
   ## Contact-Me
-  * Name - l
-  * Email - l
+  * Name - Pema Sherpa
+  * Email - pematamang111@gmail.com
   * Github - [undefined](https://github.com/undefined);
   ## Contributors
-  l
+  NA
   ## Testing
   ```
-  l
+  NA
   ```
   ##License
-    Licensed under the  license.
+    Licensed under the MIT License license.
