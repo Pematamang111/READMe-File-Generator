@@ -1,4 +1,4 @@
-# README.md
+# README Generator
   by Pema Sherpa
   ![Github license](https://img.shields.io/badge/license-MIT License-yellowgreen.svg)
   ## Table of Contents
@@ -12,13 +12,13 @@
  [liense](#license)
 
   ## Description
-  It generates the professional Readme.
+  Creates professional readme.
   ## Usage
-  It is very useful to create profssional readme.
+  Useful to create readme
   ## Installation
   NA
   ## Requirements
-  inquirer npm product
+  inquirer
   ## Contact-Me
   * Name - Pema Sherpa
   * Email - pematamang111@gmail.com
