@@ -1,4 +1,4 @@
-# Social Network
+# Text Editor
   by Pema Sherpa
   ![Github license](https://img.shields.io/badge/license-MIT License-yellowgreen.svg)
   ## Table of Contents
@@ -9,20 +9,20 @@
   * [Contributors](#contributors)
   * [Testing](#testing)
   
-    [liense](#license)
+ [liense](#license)
 
   ## Description
-  This project has user and thought routes, where users can create, read, update and delete them.
+  The app is a single-page application that meets the PWA criteria. 
   ## Usage
-  Social Network project is usefull to create, read, update and delete the users and thoughtss.
+  It will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
   ## Installation
   NA
   ## Requirements
-  Express, Mongoose
+  babel, css-loader, html-plugin, webpack, and workbox
   ## Contact-Me
   * Name - Pema Sherpa
   * Email - pematamang111@gmail.com
-  * Github - pematamang111
+  * Github - [undefined](https://github.com/undefined);
   ## Contributors
   Pematamang111
   ## Testing
