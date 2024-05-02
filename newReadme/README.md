@@ -1,4 +1,4 @@
-# README Generator
+# Social Network
   by Pema Sherpa
   ![Github license](https://img.shields.io/badge/license-MIT License-yellowgreen.svg)
   ## Table of Contents
@@ -9,25 +9,25 @@
   * [Contributors](#contributors)
   * [Testing](#testing)
   
- [liense](#license)
+    [liense](#license)
 
   ## Description
-  Creates professional readme.
+  This project has user and thought routes, where users can create, read, update and delete them.
   ## Usage
-  Useful to create readme
+  Social Network project is usefull to create, read, update and delete the users and thoughtss.
   ## Installation
   NA
   ## Requirements
-  inquirer
+  Express, Mongoose
   ## Contact-Me
   * Name - Pema Sherpa
   * Email - pematamang111@gmail.com
-  * Github - [undefined](https://github.com/undefined);
+  * Github - pematamang111
   ## Contributors
-  NA
+  Pematamang111
   ## Testing
   ```
   NA
   ```
-  ##License
+  ## License
     Licensed under the MIT License license.

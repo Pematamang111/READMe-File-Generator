@@ -59,6 +59,7 @@ function generateMarkdown(data) {
   \`\`\`
   ${data.test}
   \`\`\`
+  ## Licence
   ${renderLicenseSection(data.license)}
 `;
 }
